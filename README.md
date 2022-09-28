@@ -1,4 +1,4 @@
-# Lovotii Martin - Curso CODERHOUSE Backend
+# Lovotti Martin - Curso CODERHOUSE Backend
 
 Desafio 14
 
